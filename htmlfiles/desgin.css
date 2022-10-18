@@ -55,7 +55,6 @@ background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(176,233,148,1) 
 }
 footer{
   text-align: center;
-  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
